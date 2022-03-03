@@ -31,7 +31,6 @@ export default {
   name: 'EducationModul',
 
   created(){
-      console.log("===data", educationData.default)
       this.education = educationData.default
     },
 

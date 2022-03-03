@@ -4,7 +4,7 @@
      <profile /> 
      <about />
      <skills />
-     <portfoliopage />
+     <!--<portfoliopage />-->
      <experience />
      <education /> 
      <!--<reference />--> 
@@ -18,13 +18,13 @@ import About from '../views/About.vue'
 import Contact from '../views/Contact.vue'
 import Education from '../views/Education.vue'
 import Experience from '../views/Experience.vue'
-import Portfoliopage from '../views/Portfoliopage.vue'
+//import Portfoliopage from '../views/Portfoliopage.vue'
 import Profile from '../views/Profile.vue'
 //import Reference from '../views/Reference.vue'
 import Skills from '../views/Skillspage.vue'
 
 export default {
-  components: { About, Skills, Portfoliopage, Experience, Education, Contact, Profile },
+  components: { About, Skills, Experience, Education, Contact, Profile },
   name: 'Header',
   props: {
     msg: String,

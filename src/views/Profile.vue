@@ -15,12 +15,16 @@
             </div>
             <div class="section">
               <div class="container">
-                <div class="button-container"><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Facebook"><i class="fa fa-facebook"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Twitter"><i class="fa fa-twitter"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Google+"><i class="fa fa-google-plus"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Instagram"><i class="fa fa-instagram"></i></a></div>
+                <div class="button-container">
+                  <a class="btn btn-default btn-round btn-lg btn-icon" href="https://www.facebook.com/meszaros.zsolt.165/" rel="tooltip" title="Follow me on Facebook"><i class="fa fa-facebook"></i></a>
+                  <a class="btn btn-default btn-round btn-lg btn-icon" href="https://twitter.com/zsorzso0214" rel="tooltip" title="Follow me on Twitter"><i class="fa fa-twitter"></i></a>
+                  
               </div>
             </div>
           </div>
         </div>
       </div>
+    </div>
 </template>
 
 <script>
