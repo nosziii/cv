@@ -1,7 +1,7 @@
 <template>
  <div class="section">
         <div class="container cc-education">
-          <div class="h4 text-center mb-4 title">Education</div>
+          <div class="h4 text-center mb-4 title">Tanulmányok</div>
          <education-modul/>
         </div>
       </div>

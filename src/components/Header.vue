@@ -10,7 +10,7 @@
             <ul class="navbar-nav">
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">Rólam</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Készségek</a></li>
-              <li class="nav-item"><a class="nav-link smooth-scroll" href="#portfolio">Portfólió</a></li>
+              <!--<li class="nav-item"><a class="nav-link smooth-scroll" href="#portfolio">Portfólió</a></li>-->
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Tapasztalat</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Kapcsolat</a></li>
             </ul>
