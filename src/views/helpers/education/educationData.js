@@ -22,7 +22,7 @@ export default
             "Master SAPUI5"
         ], 
         pbody: "",
-        link:"ui51-RecordOfAchievement.pdf",
+        link:"../assets/pdf/ui51-RecordOfAchievement.pdf",
         linkName:"Developing Web Apps with SAPUI5",
         helpy: "Link: "
     },

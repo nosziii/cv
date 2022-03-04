@@ -10,7 +10,7 @@
                 <div class="h2 title">Mészáros Zsolt</div>
                 <p class="category text-white">Web programozó és Szoftverfejlesztő</p>
                 <a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Írj nekem</a>
-                <a class="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Cv letöltése</a>
+                <a class="btn btn-primary" href="../assets/pdf/cv.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Cv letöltése</a>
               </div>
             </div>
             <div class="section">
